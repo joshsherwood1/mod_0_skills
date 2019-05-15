@@ -1,4 +1,4 @@
-How to Become a Turing Student
+How To Become a Turing Student
 
 - 1. Research Turing
   - 1.1 Find out information about Turing
