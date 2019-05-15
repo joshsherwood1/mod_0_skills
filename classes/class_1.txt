@@ -1,0 +1,15 @@
+Class: Classroom
+
+Attribute:
+Size (Float)
+Current_student_amount (Integer)
+Total_student_capacity (Integer)
+Classroom_floor_level: (String)
+Posters_in_classroom: (Array)
+Wall_color (String)
+
+Method:
+Calculate_percentage_of_class_that_is_full (divide Current_student_amount by Total_student_capacity)
+Add_posters (add poster to Posters_in_classroom array)
+Calculate_students_needed_to_fill_classroom (Subtract Current_student_amount from Total_student_capacity)
+Change_wall_color (change Wall_color to different color)
