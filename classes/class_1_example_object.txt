@@ -1,0 +1,16 @@
+Object: Biology Classroom
+
+Attribute:
+
+Size: 665.52
+Current_student_amount: 20
+Total_student_capacity: 25
+Classroom_floor_level: "First floor"
+Posters_in_classroom: [ ]
+Wall_color: "Blue"
+
+Method:
+Calculate_percentage_of_class_that_is_full: 20 / 25 = .8
+Add_posters: ["Albert Einstein poster"]
+Calculate_students_needed_to_fill_classroom 25 - 20 = 5
+Change_wall_color (change Wall_color to different color) "Purple"
