@@ -1,4 +1,4 @@
-Class: Computers
+Class: Computer
 
 Attribute:
 Total_computer_count (Integer)
