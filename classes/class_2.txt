@@ -1,0 +1,14 @@
+Class: Computers
+
+Attribute:
+Total_computer_count (Integer)
+Working_computers_count (Integer)
+Computer_brand: (String)
+Computer_accessories (Array)
+Computer_memory_capacity (Float)
+
+Method:
+Calculate_percentage_of_working_computers (divide Working_computers_count by Total_computer_count)
+Change_computer_band (replace Computer_brand)
+Add_computer_accessories (add Computer_accessories to array)
+Increase_memory_capacity (add memory amount to Computer_memory_capacity)
