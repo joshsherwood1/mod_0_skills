@@ -1,6 +1,6 @@
 How To Become a Turing Student
 
-- 1. Research Turing
+- (1) Research Turing
   - 1.1 Find out information about Turing
     - 1.1.1 Research values of the school
     - 1.1.2 Find out how long the program is
@@ -10,14 +10,14 @@ How To Become a Turing Student
   - 1.2 Compare Turing to other Coding Schools
     - 1.2.1 Compare each school's program length, tuition, and student success outcomes
     - 1.2.2 Figure out which one aligns best with your needs
-- 2. Apply to Turing
+- (2) Apply to Turing
   - 2.1 Submit Resume
     - 2.1.1 Obtain PDF copy of Resume
     - 2.1.2 Upload to Turing website
   - 2.2 Complete Online Logic Test
     - 2.2.1 Take practice tests before completing logic test
     - 2.2.2 Complete online logic test within allotted time
-- 3. Complete Interview
+- (3) Complete Interview
   - 3.1 Schedule Interview Time
   - 3.2 Take in-person logic test
     - 3.2.1 Collaborate with interviewer to show your thought process
@@ -26,7 +26,7 @@ How To Become a Turing Student
     - 3.3.1 Answer questions regarding work history
     - 3.3.2 Answer questions about situations that you have handled in your personal life and at work
     - 3.3.3 Answer questions regarding your values
-- 4. Complete Enrollment Requirements
+- (4) Complete Enrollment Requirements
   - 4.1 Pay tuition
     - 4.1.1 Log into Turing website
     - 4.1.2 Pay tuition in full
