@@ -1,0 +1,14 @@
+Object: Biology class computer lab
+
+Attribute:
+Total_computer_count: 10
+Working_computers_count: 9
+Computer_brand: "Apple"
+Computer_accessories: [Mouse]
+Computer_memory_capacity: 66.9
+
+Method:
+Calculate_percentage_of_working_computers: 9 / 10 = .9
+Change_computer_band: "Asus"
+Add_computer_accessories: [Mouse, Keyboard]
+Increase_memory_capacity: 66.9 + 30 = 96.9
