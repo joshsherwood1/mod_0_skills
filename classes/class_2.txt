@@ -1,14 +1,14 @@
-Class: Computer
+Class: Laptop
 
 Attribute:
-Total_computer_count (Integer)
-Working_computers_count (Integer)
-Computer_brand: (String)
-Computer_accessories (Array)
-Computer_memory_capacity (Float)
+Total_laptop_charge (Integer)
+Current_laptop_charge (Integer)
+Laptop_Software: (String)
+Laptop_accessories (Array)
+Laptop_memory_capacity (Float)
 
 Method:
-Calculate_percentage_of_working_computers (divide Working_computers_count by Total_computer_count)
-Change_computer_band (replace Computer_brand)
-Add_computer_accessories (add Computer_accessories to array)
-Increase_memory_capacity (add memory amount to Computer_memory_capacity)
+Calculate_remaining_charge (divide Current_laptop_charge by Total_laptop_charge)
+Change_laptop_software (replace Laptop_Software)
+Add_laptop_accessories (add Laptop_accessories to array)
+Increase_memory_capacity (add memory amount to Laptop_memory_capacity)
