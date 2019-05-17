@@ -1,14 +1,14 @@
-Object: Biology class computer lab
+Object: School Library Rental Laptop
 
 Attribute:
-Total_computer_count: 10
-Working_computers_count: 9
-Computer_brand: "Apple"
-Computer_accessories: [Mouse]
-Computer_memory_capacity: 66.9
+Total_laptop_charge: 100
+Current_laptop_charge: 93
+Laptop_Software: "Windows 7"
+Laptop_accessories: ["Wireless remote"]
+Laptop_memory_capacity: 60.5
 
 Method:
-Calculate_percentage_of_working_computers: 9 / 10 = .9
-Change_computer_band: "Asus"
-Add_computer_accessories: [Mouse, Keyboard]
-Increase_memory_capacity: 66.9 + 30 = 96.9
+Calculate_remaining_charge: 93 / 100 = .93
+Change_laptop_software: "Windows 10"
+Add_laptop_accessories: ["Wireless remote", "Flash drive"]
+Increase_memory_capacity: 60.5 + 30.0 = 90.5
